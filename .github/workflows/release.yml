@@ -2,7 +2,7 @@ name: Build Release
 on: 
   workflow_dispatch:
 env:
-  NET_FRAMEWORK_VERSION: "net48"
+  NET_FRAMEWORK_VERSION: ""
   PROJECT_NAME: "/TutorialNoDamage"
   ASSEMBLY_NAME: "TutorialNoDamage"
   SL_REFERENCES: "${{ github.workspace }}/References"
