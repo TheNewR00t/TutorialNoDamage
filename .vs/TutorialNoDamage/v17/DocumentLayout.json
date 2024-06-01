@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\david\\source\\repos\\TutorialNoDamage\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E5D80DA3-235C-4DF1-9DE5-2A22D99AAD8B}|TutorialNoDamage\\TutorialNoDamage.csproj|c:\\users\\david\\source\\repos\\tutorialnodamage\\tutorialnodamage\\plugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5D80DA3-235C-4DF1-9DE5-2A22D99AAD8B}|TutorialNoDamage\\TutorialNoDamage.csproj|solutionrelative:tutorialnodamage\\plugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5D80DA3-235C-4DF1-9DE5-2A22D99AAD8B}|TutorialNoDamage\\TutorialNoDamage.csproj|c:\\users\\david\\source\\repos\\tutorialnodamage\\tutorialnodamage\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5D80DA3-235C-4DF1-9DE5-2A22D99AAD8B}|TutorialNoDamage\\TutorialNoDamage.csproj|solutionrelative:tutorialnodamage\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5D80DA3-235C-4DF1-9DE5-2A22D99AAD8B}|TutorialNoDamage\\TutorialNoDamage.csproj|c:\\users\\david\\source\\repos\\tutorialnodamage\\tutorialnodamage\\eventhandlers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5D80DA3-235C-4DF1-9DE5-2A22D99AAD8B}|TutorialNoDamage\\TutorialNoDamage.csproj|solutionrelative:tutorialnodamage\\eventhandlers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Config.cs",
+              "DocumentMoniker": "C:\\Users\\david\\source\\repos\\TutorialNoDamage\\TutorialNoDamage\\Config.cs",
+              "RelativeDocumentMoniker": "TutorialNoDamage\\Config.cs",
+              "ToolTip": "C:\\Users\\david\\source\\repos\\TutorialNoDamage\\TutorialNoDamage\\Config.cs",
+              "RelativeToolTip": "TutorialNoDamage\\Config.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T18:50:51.932Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EventHandlers.cs",
+              "DocumentMoniker": "C:\\Users\\david\\source\\repos\\TutorialNoDamage\\TutorialNoDamage\\EventHandlers.cs",
+              "RelativeDocumentMoniker": "TutorialNoDamage\\EventHandlers.cs",
+              "ToolTip": "C:\\Users\\david\\source\\repos\\TutorialNoDamage\\TutorialNoDamage\\EventHandlers.cs",
+              "RelativeToolTip": "TutorialNoDamage\\EventHandlers.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T18:50:47.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "plugin.cs",
+              "DocumentMoniker": "C:\\Users\\david\\source\\repos\\TutorialNoDamage\\TutorialNoDamage\\plugin.cs",
+              "RelativeDocumentMoniker": "TutorialNoDamage\\plugin.cs",
+              "ToolTip": "C:\\Users\\david\\source\\repos\\TutorialNoDamage\\TutorialNoDamage\\plugin.cs",
+              "RelativeToolTip": "TutorialNoDamage\\plugin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T18:50:05.819Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
