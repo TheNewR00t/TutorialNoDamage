@@ -1,0 +1,11 @@
+{
+  "displayname": "TutorialNoDamage",
+  "description": "A",
+  "authorName": "TheNewR00t",
+  "buildType": 0,
+  "version": "1.1",
+  "scpslVersion": "13.4.2",
+  "loaderType": "Exiled",
+  "gameAssemblyReferences": "Assembly-CSharp.dll",
+  "publicizeAssemblies": "Assembly-CSharp.dll"
+}
