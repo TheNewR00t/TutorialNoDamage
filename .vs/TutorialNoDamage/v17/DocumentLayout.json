@@ -3,16 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\david\\source\\repos\\TutorialNoDamage\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E5D80DA3-235C-4DF1-9DE5-2A22D99AAD8B}|TutorialNoDamage\\TutorialNoDamage.csproj|c:\\users\\david\\source\\repos\\tutorialnodamage\\tutorialnodamage\\plugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E5D80DA3-235C-4DF1-9DE5-2A22D99AAD8B}|TutorialNoDamage\\TutorialNoDamage.csproj|solutionrelative:tutorialnodamage\\plugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E5D80DA3-235C-4DF1-9DE5-2A22D99AAD8B}|TutorialNoDamage\\TutorialNoDamage.csproj|c:\\users\\david\\source\\repos\\tutorialnodamage\\tutorialnodamage\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E5D80DA3-235C-4DF1-9DE5-2A22D99AAD8B}|TutorialNoDamage\\TutorialNoDamage.csproj|solutionrelative:tutorialnodamage\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E5D80DA3-235C-4DF1-9DE5-2A22D99AAD8B}|TutorialNoDamage\\TutorialNoDamage.csproj|c:\\users\\david\\source\\repos\\tutorialnodamage\\tutorialnodamage\\eventhandlers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E5D80DA3-235C-4DF1-9DE5-2A22D99AAD8B}|TutorialNoDamage\\TutorialNoDamage.csproj|solutionrelative:tutorialnodamage\\eventhandlers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,47 +14,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Config.cs",
               "DocumentMoniker": "C:\\Users\\david\\source\\repos\\TutorialNoDamage\\TutorialNoDamage\\Config.cs",
               "RelativeDocumentMoniker": "TutorialNoDamage\\Config.cs",
               "ToolTip": "C:\\Users\\david\\source\\repos\\TutorialNoDamage\\TutorialNoDamage\\Config.cs",
               "RelativeToolTip": "TutorialNoDamage\\Config.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAvAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-01T18:50:51.932Z",
-              "IsPinned": true,
+              "WhenOpened": "2024-06-01T19:38:27.878Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "EventHandlers.cs",
-              "DocumentMoniker": "C:\\Users\\david\\source\\repos\\TutorialNoDamage\\TutorialNoDamage\\EventHandlers.cs",
-              "RelativeDocumentMoniker": "TutorialNoDamage\\EventHandlers.cs",
-              "ToolTip": "C:\\Users\\david\\source\\repos\\TutorialNoDamage\\TutorialNoDamage\\EventHandlers.cs",
-              "RelativeToolTip": "TutorialNoDamage\\EventHandlers.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-01T18:50:47.28Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "plugin.cs",
-              "DocumentMoniker": "C:\\Users\\david\\source\\repos\\TutorialNoDamage\\TutorialNoDamage\\plugin.cs",
-              "RelativeDocumentMoniker": "TutorialNoDamage\\plugin.cs",
-              "ToolTip": "C:\\Users\\david\\source\\repos\\TutorialNoDamage\\TutorialNoDamage\\plugin.cs",
-              "RelativeToolTip": "TutorialNoDamage\\plugin.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA0AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-01T18:50:05.819Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
             }
           ]
         }
